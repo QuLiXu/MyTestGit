@@ -1,5 +1,5 @@
 public class myTest {
     public static void main(String[] args) {
-        System.out.println("撒旦撒");
+        System.out.println("撒旦撒2222");
     }
 }
